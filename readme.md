@@ -10,6 +10,10 @@
 ```bash
 git clone https://github.com/azeemamjad/candidate-management-system-fastapi
 ```
+### If You Have Docker
+```bash
+docker compose up --build
+```
 ### Create Virtual Enviournment
 - Mac / Linux
 ```bash
